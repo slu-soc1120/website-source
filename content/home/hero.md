@@ -48,4 +48,4 @@ title = "Introduction to Sociology: Diversity & Health"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-An introduction to the discipline of sociology, with a particular emphasis on health disparities and health care in the United States.
+An introduction to the discipline of sociology, with a particular emphasis on health disparities and health care in the United States. This site is for <a href="https://chris-prener.github.io" target="_blank">Chris Prener's</a> sections only.

@@ -15,21 +15,27 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
-[[feature]]
   icon = "google"
   icon_pack = "fab"
-  name = "Google Classroom"
-  description = "course materials"
+  name = "[Google Classroom](https://classroom.google.com)"
+  description = "slides, notes, assignment submission"  
+
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "[Syllabus (Section 01)](https://slu-soc1120.github.io/syllabus-alt/)"
+  description = "policies, schedule for T/TH"  
+  
+[[feature]]
+  icon = "book"
+  icon_pack = "fas"
+  name = "[Syllabus (Section 05/05H)](https://slu-soc1120.github.io/syllabus/)"
+  description = "policies, schedule for M/W"
+  
+[[feature]]
+  icon = "landmark"
+  icon_pack = "fas"
+  name = "[Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443)"
+  description = "readings via SLU's library"  
   
 +++
