@@ -1,6 +1,7 @@
 language: r
-dist: trusty
+dist: xenial
 sudo: required
+latex: false
 
 branches:
   only:
