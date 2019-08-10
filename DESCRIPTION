@@ -1,0 +1,7 @@
+Package: websoute-source
+Type: Website
+Title: SLU SOC 1120 Course Website Source Materials
+Version: 0.0.1
+Imports: 
+    blogdown
+Remotes: rstudio/blogdown
