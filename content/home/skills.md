@@ -37,5 +37,17 @@ subtitle = ""
   icon_pack = "fas"
   name = "[Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443)"
   description = "readings via SLU's library"  
+
+[[feature]]
+  icon = "newspaper"
+  icon_pack = "far"
+  name = "[Wall Street Journal](https://education.wsj.com/students/)"
+  description = "free subscription via SLU's library" 
   
+[[feature]]
+  icon = "briefcase"
+  icon_pack = "fas"
+  name = "[Course Docs](/docs/)"
+  description = "related articles, news, and media" 
+    
 +++
