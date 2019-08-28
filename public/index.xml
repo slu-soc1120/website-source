@@ -5,12 +5,43 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>SLU SOC 1120</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Sat, 10 Aug 2019 00:00:00 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2017-2019 Christopher G. Prener</copyright><lastBuildDate>Wed, 28 Aug 2019 00:00:00 -0500</lastBuildDate>
     <image>
       <url>/img/icon-192.png</url>
       <title>SLU SOC 1120</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Lecture-02 - Inequality and Health</title>
+      <link>/docs/lecture-02/</link>
+      <pubDate>Wed, 28 Aug 2019 00:00:00 -0500</pubDate>
+      <guid>/docs/lecture-02/</guid>
+      <description>
+
+&lt;h2 id=&#34;alameda-county-study&#34;&gt;Alameda County Study&lt;/h2&gt;
+
+&lt;p&gt;Some of the most important insights into population health in the late 20th century were obtained from data collected in and around Oakland, Calforina. The &lt;a href=&#34;https://en.wikipedia.org/wiki/Alameda_County_Study&#34; target=&#34;_blank&#34;&gt;Alameda County Study&lt;/a&gt; consisted of multiple waves of data collection that &lt;a href=&#34;https://files.eric.ed.gov/fulltext/EJ792845.pdf&#34; target=&#34;_blank&#34;&gt;yielded critical insights&lt;/a&gt; about health behaviors, culture, and outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;social-epidemiology&#34;&gt;Social Epidemiology&lt;/h2&gt;
+
+&lt;p&gt;Social epidemiology is a branch of &lt;a href=&#34;https://en.wikipedia.org/wiki/Epidemiology&#34; target=&#34;_blank&#34;&gt;epidemiology&lt;/a&gt;, which is the science focused on studying the distribution of illness in a population. &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2723602/pdf/12199_2008_Article_BF02898100.pdf&#34; target=&#34;_blank&#34;&gt;Social epidemiologists&lt;/a&gt; are particularly interested in how the &lt;a href=&#34;https://en.wikipedia.org/wiki/Social_determinants_of_health&#34; target=&#34;_blank&#34;&gt;social determinants of health&lt;/a&gt; account for population health differences. Social epidemiologists are often trained in both sociology and public health.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;other-people&#34;&gt;Other People&lt;/h2&gt;
+
+&lt;p&gt;We also briefly mentioned the following people:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://scholar.harvard.edu/davidrwilliams/home&#34; target=&#34;_blank&#34;&gt;David Williams, Ph.D.&lt;/a&gt; - sociologist and public health professor at Harvard University&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://connects.catalyst.harvard.edu/Profiles/display/Person/66763&#34; target=&#34;_blank&#34;&gt;Margarita Alegria, Ph.D.&lt;/a&gt; - professor of psychiatry at Harvard Medical School and Massachusetts General Hospital&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hsph.harvard.edu/nancy-krieger/&#34; target=&#34;_blank&#34;&gt;Nancy Krieger&lt;/a&gt; - social epidemiologist at Harvard&amp;rsquo;s School of Public Health&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Lecture-01 - Course Introduction</title>
@@ -120,11 +151,13 @@ Details:&lt;/p&gt;
 
 &lt;h2 id=&#34;lead-poisoning&#34;&gt;Lead Poisoning&lt;/h2&gt;
 
-&lt;p&gt;Our second &amp;ldquo;parable&amp;rdquo; this week had to do with lead poisoning. If you want to learn a bit more about &lt;a href=&#34;https://en.wikipedia.org/wiki/Flint_water_crisis&#34; target=&#34;_blank&#34;&gt;Flint, Michigan&amp;rsquo;s lead crisis&lt;/a&gt;, both &lt;a href=&#34;https://www.theguardian.com/news/2018/jul/03/nothing-to-worry-about-the-water-is-fine-how-flint-michigan-poisoned-its-people&#34; target=&#34;_blank&#34;&gt;The Guardian decisions&lt;/a&gt; and the &lt;a href=&#34;https://www.nytimes.com/interactive/2016/02/04/us/flint-water-lead-maps.html&#34; target=&#34;_blank&#34;&gt;New York Times&lt;/a&gt; have reported on it (this NYT story is where the map used in the lecture came from.&lt;/p&gt;
+&lt;p&gt;Our second &amp;ldquo;parable&amp;rdquo; this week had to do with lead poisoning. Lead was commonly &lt;a href=&#34;https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/&#34; target=&#34;_blank&#34;&gt;added to gasoline&lt;/a&gt; to improve engine efficiency and to &lt;a href=&#34;https://www.reuters.com/article/us-lead-paint/lead-laden-paint-still-widely-sold-around-the-world-idUSTRE57O64G20090825&#34; target=&#34;_blank&#34;&gt;paint&lt;/a&gt; to improve durability. Leaded paint was banned in 1978, lead in pipes in and solder/flux in 1986, and leaded gasoline was finally phased out in 1995, even though &lt;a href=&#34;https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/&#34; target=&#34;_blank&#34;&gt;scientists knew throughout the 20th century&lt;/a&gt; that lead was highly toxic (though companies involved in lead production denied its toxicity publicly).&lt;/p&gt;
+
+&lt;p&gt;If you want to learn a bit more about &lt;a href=&#34;https://en.wikipedia.org/wiki/Flint_water_crisis&#34; target=&#34;_blank&#34;&gt;Flint, Michigan&amp;rsquo;s lead crisis&lt;/a&gt;, both &lt;a href=&#34;https://www.theguardian.com/news/2018/jul/03/nothing-to-worry-about-the-water-is-fine-how-flint-michigan-poisoned-its-people&#34; target=&#34;_blank&#34;&gt;The Guardian decisions&lt;/a&gt; and the &lt;a href=&#34;https://www.nytimes.com/interactive/2016/02/04/us/flint-water-lead-maps.html&#34; target=&#34;_blank&#34;&gt;New York Times&lt;/a&gt; have reported on it (this NYT story is where the map used in the lecture came from.&lt;/p&gt;
 
 &lt;p&gt;The data shown for St. Louis were obtained from Reuters&amp;rsquo; reporting on &lt;a href=&#34;http://www.reuters.com/investigates/special-report/usa-lead-testing/&#34; target=&#34;_blank&#34;&gt;lead poisoning&lt;/a&gt;. Their article includes a fascinating (if a bit terrifying) &lt;a href=&#34;https://www.reuters.com/investigates/graphics/lead-water/en/&#34; target=&#34;_blank&#34;&gt;interactive map&lt;/a&gt; of lead poisoning rates. The map includes many, but not all, American states. The data and the code used to make the maps and plots I&amp;rsquo;ve shared &lt;a href=&#34;https://github.com/slu-soc1120/STL_HEALTH_Lead&#34; target=&#34;_blank&#34;&gt;are available for download&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Other cities have struggled with this problem as well. As of August 2019, &lt;a href=&#34;https://www.wsj.com/articles/newark-distributes-bottled-water-after-lead-contamination-found-11565650213&#34; target=&#34;_blank&#34;&gt;Newark&lt;/a&gt; is in the midst of a protracted contaminated water crisis that the city has only recently begun to acknowledge. &lt;a href=&#34;https://www.chicagotribune.com/politics/ct-met-rahm-emanuel-lead-pipe-replacement-study-20181101-story.html&#34; target=&#34;_blank&#34;&gt;Chicago&lt;/a&gt; has found high rates of lead in tap water due to contamination from lead service lines as well, and &lt;a href=&#34;https://www.huffpost.com/entry/lead-wars-public-health-vs-private-property_b_5b7ebd72e4b0682df5ac7baf&#34; target=&#34;_blank&#34;&gt;cities are working with state legislatures&lt;/a&gt; to allow them to proactively replace homeowners&amp;rsquo; lead water lines.&lt;/p&gt;
+&lt;p&gt;Other cities have struggled with this problem as well, but &lt;a href=&#34;https://www.csmonitor.com/USA/2018/0827/US-cities-push-to-remove-lead-pipes-but-some-property-owners-resist&#34; target=&#34;_blank&#34;&gt;cost and a patchwork of laws are barriers to proactively addressing lead water lines and paint&lt;/a&gt;. As of August 2019, &lt;a href=&#34;https://www.wsj.com/articles/newark-distributes-bottled-water-after-lead-contamination-found-11565650213&#34; target=&#34;_blank&#34;&gt;Newark&lt;/a&gt; is in the midst of a protracted contaminated water crisis that the city has only recently begun to acknowledge. &lt;a href=&#34;https://www.chicagotribune.com/politics/ct-met-rahm-emanuel-lead-pipe-replacement-study-20181101-story.html&#34; target=&#34;_blank&#34;&gt;Chicago&lt;/a&gt; has found high rates of lead in tap water due to contamination from lead service lines as well, and &lt;a href=&#34;https://www.huffpost.com/entry/lead-wars-public-health-vs-private-property_b_5b7ebd72e4b0682df5ac7baf&#34; target=&#34;_blank&#34;&gt;cities are working with state legislatures&lt;/a&gt; to allow them to proactively replace homeowners&amp;rsquo; lead water lines.&lt;/p&gt;
 
 &lt;p&gt;Lead posioning is an active area of scholarship as well, with recent papers &lt;a href=&#34;https://www.annualreviews.org/doi/full/10.1146/annurev.med.55.091902.103653&#34; target=&#34;_blank&#34;&gt;reviewing our knowledge on lead posioning&lt;/a&gt;, &lt;a href=&#34;https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2015.303003&#34; target=&#34;_blank&#34;&gt;documenting Flint&amp;rsquo;s water crisis&lt;/a&gt;, and &lt;a href=&#34;https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/racial-ecology-of-lead-poisoning/F39AF4724258606DCC1CDA369DC08707&#34; target=&#34;_blank&#34;&gt;tracing racial disparities&lt;/a&gt;.&lt;/p&gt;
 
