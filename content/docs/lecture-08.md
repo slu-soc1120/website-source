@@ -12,7 +12,7 @@ type = "docs"  # Do not modify.
 linktitle = "Lecture-08 - Social Structure"
 [menu.docs]
   parent = "Lectures"
-  weight = 8
+  weight = 10
 +++
 
 ## Division of Labor

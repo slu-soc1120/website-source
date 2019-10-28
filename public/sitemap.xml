@@ -3,12 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/docs/lecture-08/</loc>
-    <lastmod>2019-09-25T00:00:00-05:00</lastmod>
+    <loc>/docs/lecture-12/</loc>
+    <lastmod>2019-10-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-13/</loc>
+    <lastmod>2019-10-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-14/</loc>
+    <lastmod>2019-10-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-15/</loc>
+    <lastmod>2019-10-28T00:00:00-05:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
+    <lastmod>2019-10-28T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/lecture-08/</loc>
     <lastmod>2019-09-25T00:00:00-05:00</lastmod>
   </url>
   
