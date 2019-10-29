@@ -18,6 +18,7 @@ linktitle = "Lecture-14 - Social Class"
 ## Subjective Class Position
 While it is possible to [calculate class membership using objective criteria](https://www.pewresearch.org/fact-tank/2018/09/06/are-you-in-the-american-middle-class/), many Americans identify as "middle class" regardless of these more objective criteria, meaning that there is [a lot of variation in the "vast middle"](https://www.pewresearch.org/wp-content/uploads/sites/3/2010/10/Four-middle-classes.pdf).
 
+<br>
 ## People
 We briefly mentioned the following people:
 
