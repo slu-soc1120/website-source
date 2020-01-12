@@ -18,7 +18,7 @@ linktitle = "Lecture-08 - Social Structure"
 ## Division of Labor
 This is a concept [Émile Durkheim](https://en.wikipedia.org/wiki/Émile_Durkheim) raised in his [doctoral dissertation](https://en.wikipedia.org/wiki/The_Division_of_Labour_in_Society), in which he argued that capitalism had fundamentally altered how societies were organized. He described cohesion in pre-capitalist societies as [mechanical solidarity](https://en.wikipedia.org/wiki/Mechanical_and_organic_solidarity), in which social ties bound more homogeneous groups of individuals together. With the advent of advanced capitalism, Durkheim argued that societies had shifted to [organic solidarity](https://en.wikipedia.org/wiki/Mechanical_and_organic_solidarity), in which a division of labor bound more heterogeneous groups of people together. These ideas are similar to [Ferdinand Tönnies's](https://en.wikipedia.org/wiki/Ferdinand_Tönnies) ideas of [Gemeinschaft and Gesellschaft](https://en.wikipedia.org/wiki/Gemeinschaft_and_Gesellschaft), which had a significant impact on [Max Weber's](https://en.wikipedia.org/wiki/Max_Weber) thoughts on the division of labor. Gemeinschaft offers a parallel to Durkheim's idea of mechanical solidarity, while Gesellschaft parallels organic solidarity.
 
-<br>
+
 ## People
 We also briefly mentioned the following people:
 

@@ -18,11 +18,11 @@ linktitle = "Lecture-15 - Stratification and Health"
 ## Evictions
 [Matt Desmond](https://en.wikipedia.org/wiki/Matthew_Desmond) is a Sociologist at Princeton University. We brougt him up in [Lecture-14](/docs/lecture-14/) in reference to his [research on wildland fire fighters](https://books.google.com/books?id=UbO4n84bWiIC&printsec=frontcover&dq=On+the+Fireline:+Living+and+Dying+with+Wildland+Firefighters&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwiCvdKnyr_lAhWLl-AKHXrhBTwQ6AEwAHoECAUQAg). His work on inequality in the United States has resulted in a [book on evictions](http://www.evictedbook.com) as well as a [national project](https://evictionlab.org) aimed at tracking the eviction rate in the Unisted States
 
-<br>
+
 ## Poverty Line
 The [federal government's poverty line](https://aspe.hhs.gov/poverty-guidelines) is used to determine whether or not individuals or their families are eligible for a range of social saftey-net services. It varies based on family size, and different dollar amounts are used for Hawaii and Alaska. [Mollie Orshansky](https://en.wikipedia.org/wiki/Mollie_Orshansky) (1915-2006) who established the system used for calculating these poverty line values in the 1960s when she was employed as a statistician at the Social Security Administration. She used a basic assumption that a third of a family's budget would be [spent on food](https://www.ssa.gov/policy/docs/ssb/v68n3/v68n3p79.html). The methods she used have been [continually critiqued](https://psmag.com/economics/experts-want-to-update-the-poverty-line-but-not-the-way-trump-is-planning-to-do-it), but remain very influential for determining access to [SNAP](https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program), [TANF](https://en.wikipedia.org/wiki/Temporary_Assistance_for_Needy_Families), [Medicaid](https://en.wikipedia.org/wiki/Medicaid), and [WIC](https://en.wikipedia.org/wiki/WIC), among other programs.
 
-<br>
+
 ## People
 We briefly mentioned the following people:
 
@@ -30,7 +30,7 @@ We briefly mentioned the following people:
 * [Katheryn Edin](https://en.wikipedia.org/wiki/Kathryn_Edin) - Sociologist at Princeton University
 * [Katherine Newman](https://en.wikipedia.org/wiki/Katherine_Newman) (b. 1953) - Sociologist and Interm Chancellor of the University of Massachusetts, Boston
 
-<br>
+
 ## Topics
 We also briefly mentioned the following concepts and historical events:
 

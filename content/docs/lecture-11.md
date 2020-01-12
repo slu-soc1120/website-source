@@ -23,7 +23,7 @@ We briefly mentioned the following people:
 
 * [Joseph Schumpeter](https://en.wikipedia.org/wiki/Joseph_Schumpeter) (1883-1950) - Austrian economist known for his idea of ["creative destruction"](https://en.wikipedia.org/wiki/Creative_destruction)
 
-<br>
+
 ## Topics
 We also briefly mentioned the following concepts and historical events:
 

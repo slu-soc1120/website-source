@@ -9,8 +9,4 @@ toc = false  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 +++
 
-{{% alert warning %}}
-This is a work in progress!
-{{% /alert %}}
-
 The Course Docs are meant to be supplementary materials about some of the theories, people, events, and ideas we discuss in class. They aren't required for the course, are a work in progress, and for this semester may not be available for every lecture.

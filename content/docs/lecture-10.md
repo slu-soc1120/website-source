@@ -21,7 +21,7 @@ One of the most extreme examples of attempts to keep St. Louis's subrubs segrega
 ## Deed Covenants
 Racially restrictive langauge was added to many deeds (the legal paperwork that certifies home ownership) in the early 20th century. The lawsuit that ended their legal enforcement, [Shelley v. Kraemer](https://en.wikipedia.org/wiki/Shelley_v._Kraemer), began in 1945 after the Shelley family bought a home that had a covenant on its deed preventing African American ownership. The Supreme Court ruled in the Shelley family's favor, and the [house today](https://en.wikipedia.org/wiki/Shelley_House_(St._Louis,_Missouri)) is a U.S. National Historic Landmark.
 
-<br>
+
 ## People
 We briefly mentioned the following people:
 
@@ -33,7 +33,7 @@ We briefly mentioned the following people:
 * [Robert Park](https://en.wikipedia.org/wiki/Robert_E._Park) (1864-1944) - American sociologist and a key faculty member of the [Chicago School](https://en.wikipedia.org/wiki/Chicago_school_(sociology)).
 * [W.E.B. Du Bois](https://en.wikipedia.org/wiki/W._E._B._Du_Bois) (1868-1963) - American sociologist and a founder of the [NAACP](https://en.wikipedia.org/wiki/NAACP) who focused his research on African American urban communities at the turn of the 20th century
 
-<br>
+
 ## Topics
 We also briefly mentioned the following concepts and historical events:
 

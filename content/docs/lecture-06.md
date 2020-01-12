@@ -26,7 +26,7 @@ We briefly mentioned the following people:
 * [Oliver Wendell Holmes, Jr.](https://en.wikipedia.org/wiki/Oliver_Wendell_Holmes_Jr.) (1841-1935) - one of the most well known and cited Supreme Court jurists, he wrote for the majority in in [*Buck v. Bell*](https://en.wikipedia.org/wiki/Buck_v._Bell)
 * [Wickliffe Draper](https://en.wikipedia.org/wiki/Wickliffe_Draper) (1891-1972) - eugenicist who founded the [Pioneer Fund](https://en.wikipedia.org/wiki/Pioneer_Fund)
 
-<br>
+
 ## Topics
 We also briefly mentioned the following concepts and historical events:
 

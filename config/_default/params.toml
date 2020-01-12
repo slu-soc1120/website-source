@@ -63,7 +63,7 @@ phone = ""
 address = "<em>Office</em>: 1918 Morrissey Hall"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = "<em>Office Hours</em>: Tuesday 11:00 to noon"
+office_hours = "<em>Office Hours</em>: Tuesday, 9am-11am by appointment or drop-in 11:00 to noon"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 # appointment_url = "https://calendly.com"

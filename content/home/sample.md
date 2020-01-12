@@ -34,22 +34,14 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/files/lecture-01-notes.pdf"
-  label = "Lecture Notes"
-  icon_pack = "fas"
-  icon = "file-pdf"
-  
-[cta_alt]
   url = "/docs/lecture-01/"
-  label = "View Lecture Docs"
-
+  label = "Lecture Docs"
+  icon_pack = "fas"
+  icon = "file-alt"
+  
 # Note. An optional note to show underneath the links.
 [cta_note]
   label = ""
 +++
 
-If you want a taste of what the class is like, I've made the initial lecture's materials publicly available.
-
-<p class="cta-btns">
-      <a href="https://speakerdeck.com/chrisprener/intro-to-sociology-lecture-01-course-introduction" target="_blank" rel="noopener" style="text-decoration: none" class="btn btn-light btn-lg"><i class="fas fa-file-powerpoint pr-1" aria-hidden="true"></i>Lecture Slides</a>
-    </p>
+If you want a taste of what the class is like, I've made the initial lecture's [slides](https://speakerdeck.com/chrisprener/intro-to-sociology-lecture-01-course-introduction) and [notes](/files/lecture-01-notes.pdf) publicly available.

@@ -23,19 +23,19 @@ subtitle = ""
 [[feature]]
   icon = "book"
   icon_pack = "fas"
-  name = "[Syllabus (Section 01)](https://slu-soc1120.github.io/syllabus-alt/)"
-  description = "policies, schedule for T/TH"  
+  name = "[Syllabus](https://slu-soc1120.github.io/syllabus/)"
+  description = "policies, schedule"  
   
 [[feature]]
-  icon = "book"
+  icon = "calendar-alt"
   icon_pack = "fas"
-  name = "[Syllabus (Section 05/05H)](https://slu-soc1120.github.io/syllabus/)"
-  description = "policies, schedule for M/W"
+  name = "[Office Hours Sign-up](https://calendly.com/chris-prener)"
+  description = "slots available Tuesdays, 9am-11am"
   
 [[feature]]
   icon = "landmark"
   icon_pack = "fas"
-  name = "[Electronic Reserves](http://eres.slu.edu/eres/coursepass.aspx?cid=4443)"
+  name = "[Electronic Reserves](https://libguides.slu.edu/er.php?course_id=53391)"
   description = "readings via SLU's library"  
 
 [[feature]]

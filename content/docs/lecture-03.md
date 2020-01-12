@@ -18,7 +18,7 @@ linktitle = "Lecture-03 - Fundamental Causes"
 ## Slavery Hypertension Hypothesis
 We discussed this briefly in class today, but if you want to learn a bit more about the lack of biomedical evidence for this, [this LA Times](https://www.latimes.com/archives/la-xpm-2007-may-17-oe-obasogie17-story.html) editorial from 2007 as well as [this blog post](http://raceandgenomics.ssrc.org/Kaufman/) from the Social Science Research Council. [This 2003 article from *Epidemiology*](https://journals.lww.com/epidem/Fulltext/2003/01000/The_Slavery_Hypertension_Hypothesis__Dissemination.27.aspx) provides a more detailed breakdown of the problems with the hypothesis.
 
-<br>
+
 ## Other People
 We also briefly mentioned the following people:
 

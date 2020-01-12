@@ -18,7 +18,7 @@ linktitle = "Lecture-04 - Culture"
 ## Oscars So White
 The infographic we discussed in class today came from the [Lee and Low blog](https://blog.leeandlow.com/2017/02/23/the-diversity-gap-in-the-academy-awards-diversity-records-broken/). You can find similar analyses on their site of both the [Emmys](https://blog.leeandlow.com/2013/09/18/wheres-the-diversity-a-look-at-the-emmy-awards-and-tv/) and the [Tonys](https://blog.leeandlow.com/2013/06/06/wheres-the-diversity-the-tony-awards-looks-in-the-mirror/), along with looks at a number of other inforgraphis they've put togther.
 
-<br>
+
 ## Other People
 We also briefly mentioned the following people:
 

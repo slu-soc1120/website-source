@@ -15,7 +15,6 @@ linktitle = "Lecture-09 - Social Construction"
   weight = 11
 +++
 
-<br>
 ## People
 We briefly mentioned the following people:
 
