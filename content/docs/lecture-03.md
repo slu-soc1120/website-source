@@ -30,3 +30,8 @@ We also briefly mentioned the following people:
 * [Bruce Link, Ph.D.](https://sociology.ucr.edu/faculty/bruce-g-link/) - A sociologist at the University of California, Riverside, and one of the "founders" of fundamental cause theory
 * [C. Wright Mills](https://en.wikipedia.org/wiki/C._Wright_Mills) (1916-1962) - an American sociologist best known for his book [*The Sociological Imagination*](https://en.wikipedia.org/wiki/The_Sociological_Imagination)
 * [Jo Phelan, Ph.D.](https://www.mailman.columbia.edu/people/our-faculty/jcp13) - A sociologist at Columbia University's Mailman School of Public Health, and one of the "founders" of fundamental cause theory
+
+## Other Topics
+We also briefly mentioned the following concepts and historical events:
+
+* The phenmenon of declining life expectancy in the United States has been in the media recently, including this [Reuters article](https://www.reuters.com/article/us-health-life-expectancy/u-s-life-expectancy-declining-due-to-more-deaths-in-middle-age-idUSKBN1Y02C7) mentioned in class
