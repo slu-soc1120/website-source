@@ -28,6 +28,7 @@ I also mentioned the ties between [Dr. Martin Luther King, Jr. Day](https://en.w
 
 Marking these holidays and the Civil War more generally as a war about "states' rights" or "northern aggression" is a cultural holdover from the ["Lost Cause" myth](https://en.wikipedia.org/wiki/Lost_Cause_of_the_Confederacy). In DeKalb County, Georgia, officials have now installed a plaque next to an existing Confederate monument that [provides context about the "lost cause"](https://www.ajc.com/news/local/marker-supplies-historical-context-for-dekalb-confederate-monument/3mGyZ6ITzCEGVgz785O1zJ/?fbclid=IwAR0iRmJHE3WtLX7J17OJ6bcAplgrcn9eROfsmUCavlBsxp7fex-moAizXMw#).
 
+One way in which these stories get [reified](https://www.merriam-webster.com/dictionary/reify) is through secondary school education that highlights certain themes at the expense of others. The *New York Times* [recently compared](https://www.nytimes.com/interactive/2020/01/12/us/texas-vs-california-history-textbooks.html) two history textbooks from California and Texas to give readers a sense of how these books differ in the way they present history.
 
 ## Latino Health Paradox
 While Latino immigrants [have better health on average](https://en.wikipedia.org/wiki/Hispanic_paradox), one thing the documentary for today does not get into is that Latino is an overly broad term. [Recent research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5757955/) has found, for example, that not all Latinos in the United States have the same positive health advantages.
